@@ -1,1 +1,2 @@
-file04 line01 from branch2
+file04 line 01 from branch1
+file04 line 02 from main
