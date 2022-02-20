@@ -1,2 +1,3 @@
 file03 line 01 from branch2
 file03 line 03 from main
+file 03 line 2 have some changes
